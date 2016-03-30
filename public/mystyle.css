@@ -1,12 +1,13 @@
 #main {
   background-color: #1a1a00;
-  padding-left: 5px;
-  padding-top: 5px;
-  padding-right : 5px;
-  padding-bottom: 5px;
+  padding; 5px;
 }
 #number {
   margin-left: 510px;
   margin-top: 10px;
   color: white;
+}
+
+#image-pic {
+  padding; 5px;
 }
