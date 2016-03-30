@@ -11,3 +11,15 @@
 #image-pic {
   padding; 5px;
 }
+
+#links {
+  padding-left: 600px;
+  padding-bottom: 20px;
+  font color: white;
+}
+
+a {
+  color: white;
+  margin-right: 5px;
+  text-decoration: none;
+}
