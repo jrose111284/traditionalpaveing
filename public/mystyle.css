@@ -23,3 +23,21 @@ a {
   margin-right: 5px;
   text-decoration: none;
 }
+
+#about {
+  margin-left: 100px;
+  color: white;
+}
+
+#about-img {
+  margin-left: 40px;
+}
+
+#about h2 {
+  margin-left: 100px;
+}
+
+pre {
+  margin-left: -75px;
+  color: white;
+}
