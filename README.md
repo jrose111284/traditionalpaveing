@@ -18,3 +18,7 @@ Heres the web site in word press web browser format
 ![traditionalpaveing](public/images/website/part2.png)
 ![traditionalpaveing](public/images/website/part3.png)
 ![traditionalpaveing](public/images/website/part4.png)
+
+
+Mobile phone format
+![traditionalpaveing](public/images/website/phone.png)
