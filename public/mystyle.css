@@ -1,15 +1,19 @@
-#main {
+#header {
   background-color: #1a1a00;
-  padding; 5px;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-right: 15px;
 }
+
 #number {
   margin-left: 510px;
   margin-top: 10px;
   color: white;
 }
 
-#image-pic {
-  padding; 5px;
+#img {
+  padding-left: 2px;
+  padding-right: 2px;
 }
 
 #links {
@@ -31,6 +35,7 @@ a {
 
 #about-img {
   margin-left: 40px;
+  margin-top: 20px;
 }
 
 #about h2 {
@@ -39,5 +44,14 @@ a {
 
 pre {
   margin-left: -75px;
+  color: white;
+}
+
+#img-well {
+  height: 220px;
+  width: 220px;
+}
+
+h2 {
   color: white;
 }
