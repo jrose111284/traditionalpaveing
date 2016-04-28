@@ -28,23 +28,39 @@ a {
   text-decoration: none;
 }
 
-#about {
-  margin-left: 100px;
-  color: white;
-}
-
 #about-img {
   margin-left: 40px;
   margin-top: 20px;
+
 }
 
 #about h2 {
   margin-left: 100px;
+
+}
+
+#about {
+  margin-left: 100px;
+  color: white;
+  float:left
+
+}
+
+#products {
+
+  float:left
+
+}
+
+#services {
+
+  float:left
 }
 
 pre {
   margin-left: -75px;
   color: white;
+
 }
 
 #img-well {
@@ -52,6 +68,7 @@ pre {
   height: 220px;
   width: 220px;
 }
+
 
 h2 {
   color: white;
