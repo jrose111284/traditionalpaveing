@@ -5,6 +5,10 @@
   padding-right: 15px;
 }
 
+#wrapper {
+  background-color: #1a1a00;
+  float: left;
+}
 #number {
   margin-left: 510px;
   margin-top: 10px;
@@ -47,19 +51,20 @@ a {
 }
 
 #products {
-
+  margin-left: 100px;
   float:left
 
 }
 
 #services {
-
+  margin-left: 100px;
   float:left
 }
 
 pre {
   margin-left: -75px;
   color: white;
+  float: left;
 
 }
 
