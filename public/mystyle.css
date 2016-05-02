@@ -42,11 +42,17 @@ a {
     margin-right: 5px;
     text-decoration: none;
 }
-
 h2 {
-  color: white;
+    color: white;
 }
-
+h3 {
+    color: blue;
+}
 #recent-post {
-  float: left;
+    float: left;
+}
+#img-well {
+    margin-right: 80%;
+    margin-bottom: 30px;
+    margin-top: 30px;
 }
