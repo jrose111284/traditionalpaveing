@@ -42,3 +42,11 @@ a {
     margin-right: 5px;
     text-decoration: none;
 }
+
+h2 {
+  color: white;
+}
+
+#recent-post {
+  float: left;
+}
