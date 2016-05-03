@@ -50,9 +50,12 @@ h3 {
 }
 #recent-post {
     float: left;
+    margin: auto;
 }
 #img-well {
-    margin-right: 80%;
-    margin-bottom: 30px;
-    margin-top: 30px;
+margin-right: 90%;
+margin-top: 20px;
+}
+#img-well ul h3{
+  margin-top: 10%;
 }
